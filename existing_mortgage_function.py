@@ -22,7 +22,7 @@ def populate_function_response(event, response_body):
     return {'response': {'actionGroup': event['actionGroup'], 'function': event['function'],
                 'functionResponse': {'responseBody': {'TEXT': {'body': str(response_body)}}}}}
 
-def get_mortgage_status(customer_id):
+def get_existing_mortgage_details(customer_id):
     # TODO: Implement real business logic to retrieve mortgage status
     return {
         "account_number": customer_id,
@@ -38,11 +38,11 @@ def get_mortgage_status(customer_id):
 def lambda_handler(event, context):
     print(event)
     function = event['function']
-    if function == 'get_mortgage_status':
+    if function == 'get_existing_mortgage_details':
         customer_id = get_named_parameter(event, 'customer_id')
         if not customer_id:
             raise Exception("Missing mandatory parameter: customer_id")
-        result = get_mortgage_status(customer_id)
+        result = get_existing_mortgage_details(customer_id)
     else:
         result = f"Error, function '{function}' not recognized"
 

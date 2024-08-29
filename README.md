@@ -53,4 +53,7 @@ You can also refer to these [Step-by-step guided instructions on the workshop we
 ## Contributing
 We welcome community contributions! Please ensure your sample aligns with AWS [best practices](https://aws.amazon.com/architecture/well-architected/), and please update the **Contents** section of this README file with a link to your sample, along with a description.
 
+## Legal Disclaimer
+You should consider doing your own independent assessment before using the content in this library for production purposes. This may include (amongst other things) testing, securing, and optimizing the data and other content, provided in this library, based on your specific quality control practices and standards.
+
 
