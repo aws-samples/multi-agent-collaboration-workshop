@@ -42,11 +42,11 @@ This repository contains the sample notebooks and resources associated with the 
 
 To start building, start your journey using one of the options below:
 
-For [AWS led event start here](https://studio.us-east-1.prod.workshops.aws/preview/754f1bd0-0d77-4347-93ef-6b19e2603ec8/builds/b176f7aa-a853-4628-96ee-e698d8cf51fa/en-US/account-setup)
+For [AWS led event start here](https://catalog.us-east-1.prod.workshops.aws/workshops/754f1bd0-0d77-4347-93ef-6b19e2603ec8/en-US/account-setup/011-aws-setup)
 
-For [Customer environments start here ](https://studio.us-east-1.prod.workshops.aws/preview/754f1bd0-0d77-4347-93ef-6b19e2603ec8/builds/b176f7aa-a853-4628-96ee-e698d8cf51fa/en-US/getting-started)
+For [Customer environments start here ](https://catalog.us-east-1.prod.workshops.aws/workshops/754f1bd0-0d77-4347-93ef-6b19e2603ec8/en-US/account-setup/012-self-paced-setup)
 
-You can also refer to these [Step-by-step guided instructions on the workshop website](https://studio.us-east-1.prod.workshops.aws/preview/754f1bd0-0d77-4347-93ef-6b19e2603ec8/builds/b176f7aa-a853-4628-96ee-e698d8cf51fa/en-US/introduction).
+You can also refer to these [Step-by-step guided instructions on the workshop website](https://catalog.us-east-1.prod.workshops.aws/workshops/754f1bd0-0d77-4347-93ef-6b19e2603ec8/en-US).
 
 
 
